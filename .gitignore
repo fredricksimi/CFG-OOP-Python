@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+Cat_class.py
+arithmetic_operation.py
+math_shape.py
