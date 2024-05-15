@@ -2,5 +2,5 @@
 
 
 1. Session 1 - Creating Classes and Methods
-    Video - # link to be added
-    Code - On the 'session-1' branch
+    - Video - # link to be added
+    - Code - On the 'session-1' branch
